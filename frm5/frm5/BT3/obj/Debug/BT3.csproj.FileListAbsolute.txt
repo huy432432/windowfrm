@@ -1,0 +1,10 @@
+C:\Users\Thuan\source\repos\Winform\10123308_NguyenDuyThuan_TH05_WF\BT3\bin\Debug\BT3.exe.config
+C:\Users\Thuan\source\repos\Winform\10123308_NguyenDuyThuan_TH05_WF\BT3\bin\Debug\BT3.exe
+C:\Users\Thuan\source\repos\Winform\10123308_NguyenDuyThuan_TH05_WF\BT3\bin\Debug\BT3.pdb
+C:\Users\Thuan\source\repos\Winform\10123308_NguyenDuyThuan_TH05_WF\BT3\obj\Debug\BT3.csproj.AssemblyReference.cache
+C:\Users\Thuan\source\repos\Winform\10123308_NguyenDuyThuan_TH05_WF\BT3\obj\Debug\BT3.frmThongKeTheoKhoa.resources
+C:\Users\Thuan\source\repos\Winform\10123308_NguyenDuyThuan_TH05_WF\BT3\obj\Debug\BT3.Properties.Resources.resources
+C:\Users\Thuan\source\repos\Winform\10123308_NguyenDuyThuan_TH05_WF\BT3\obj\Debug\BT3.csproj.GenerateResource.cache
+C:\Users\Thuan\source\repos\Winform\10123308_NguyenDuyThuan_TH05_WF\BT3\obj\Debug\BT3.csproj.CoreCompileInputs.cache
+C:\Users\Thuan\source\repos\Winform\10123308_NguyenDuyThuan_TH05_WF\BT3\obj\Debug\BT3.exe
+C:\Users\Thuan\source\repos\Winform\10123308_NguyenDuyThuan_TH05_WF\BT3\obj\Debug\BT3.pdb
